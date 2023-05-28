@@ -1,6 +1,8 @@
-# The Proxy Bay
+# the piratebay proxy  github.io
 
-View mirror site: https://proxybay.pages.dev/
+View Orignal site: https://thepiratebayproxy.github.io
 
-View original site: https://proxy-bay.cam/
+View mirror site: https://pirateproxy.pages.dev
+
+View original site: https://tpb-proxies.curd.io
 
